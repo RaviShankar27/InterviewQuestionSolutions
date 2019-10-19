@@ -1,4 +1,4 @@
-
+//optimized code that other solution in here
     class comp {
         public :
          bool operator()  (const vector<int>& lhs, const vector<int>& rhs) const {
